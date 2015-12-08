@@ -1,0 +1,9 @@
+[webhed]<NO1>HEAD:This is a headline<NO>[/webhed]<NO1>WEBTAG: MyWebTag1, MyWebTag2
+<NO>[subhed1]This is my SUBHED?1
+[/subhed1][subhed2]This is my SUBHED?2[/subhed2]
+This is a test file for [BOLD]NRExport[/BOLD] between two [ITALIC]NEWSROOMS[/ITALIC].
+[offline_skirt]
+[not sure][not sure]- Toan
+[TEASER]<QM>My Signature Here[/TEASER]
+ 
+
